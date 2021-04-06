@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53100'
     url: http://www.gutenberg.org/2009/agents/53100
     wikipedia: https://en.wikipedia.org/wiki/Charles_Gilbert_Chaddock
+covers:
+- cover_type: archival
+  image_path: 64931-h/images/cover.jpg
 creator:
   author:
     agent_name: Krafft-Ebing, R. von (Richard)
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Richard_von_Krafft-Ebing
     - https://de.wikipedia.org/wiki/Richard_von_Krafft-Ebing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64931#Psychopathia-sexualis-With-especial-reference-to-contrary-sexual-instinct-A-medico-legal-stud_
 gutenberg_issued: '2021-03-26'
 gutenberg_type: Text
 identifiers:
