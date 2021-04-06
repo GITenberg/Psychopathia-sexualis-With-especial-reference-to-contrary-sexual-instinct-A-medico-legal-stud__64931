@@ -1,0 +1,40 @@
+_repo: Psychopathia-sexualis-With-especial-reference-to-contrary-sexual-instinct-A-medico-legal-stud__64931
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Chaddock, Charles Gilbert
+    birthdate: 1861
+    deathdate: 1936
+    gutenberg_agent_id: '53100'
+    url: http://www.gutenberg.org/2009/agents/53100
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Gilbert_Chaddock
+creator:
+  author:
+    agent_name: Krafft-Ebing, R. von (Richard)
+    aliases:
+    - Krafft-Ebing, Richard von
+    - Krafft-Ebing, Richard, Freiherr von
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '26724'
+    url: http://www.gutenberg.org/2009/agents/26724
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Richard_von_Krafft-Ebing
+    - https://de.wikipedia.org/wiki/Richard_von_Krafft-Ebing
+description: ''
+gutenberg_issued: '2021-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64931'
+  lccn: '85665463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paraphilias'
+- !lcc 'HQ'
+- GITenberg
+title: "Psychopathia sexualis: With especial reference to contrary sexual instinct\r\
+  \nA medico-legal study"
+url: http://www.gutenberg.org/ebooks/64931
